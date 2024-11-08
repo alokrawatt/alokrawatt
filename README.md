@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/user-attachments/assets/2be6a5e8-b18b-4fd9-bc77-078358c5d938)
 
 <!--
 **alokrawatt/alokrawatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
